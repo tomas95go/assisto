@@ -1,0 +1,26 @@
+{
+  "name": "assisto",
+  "version": "1.0.0",
+  "description": "Gym manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomas95go/assisto.git"
+  },
+  "keywords": [
+    "gym",
+    "node",
+    "react",
+    "jest",
+    "cypress"
+  ],
+  "author": "Gonzalez Oviedo Tomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomas95go/assisto/issues"
+  },
+  "homepage": "https://github.com/tomas95go/assisto#readme"
+}
